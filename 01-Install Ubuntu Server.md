@@ -1,4 +1,4 @@
-# US_Chapter 01. Install Ubuntu Server
+# 01. Install Ubuntu Server
 
 
 * * *
