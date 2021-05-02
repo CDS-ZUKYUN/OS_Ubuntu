@@ -1,4 +1,4 @@
-# 01. Install Ubuntu Server
+# 00. Install Ubuntu Server
 
 
 * * *
