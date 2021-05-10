@@ -1,4 +1,4 @@
-# 00 Install Ubuntu Server
+# 0 Install Ubuntu Server
 
 > 參考:OS_Ubuntu/PPTX/00 系列檔案
 
