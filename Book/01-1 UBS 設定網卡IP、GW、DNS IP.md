@@ -34,5 +34,5 @@ sudo netplan apply
 sudo reboot
 ```
 
-<br /><br />
+<br />
 ###### tags: `OS_Ubuntu 01`
