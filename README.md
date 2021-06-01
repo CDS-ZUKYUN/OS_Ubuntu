@@ -21,7 +21,3 @@
     -   [01-0 Ubuntu basic](httpsfd.md)
     -   [01-0 Ubuntu basic](httpsfd.md)
     -   [01-0 Ubuntu basic](httpsfd.md)
-    -   [01-0 Ubuntu basic](httpsfd.md)
-    -   [01-0 Ubuntu basic](httpsfd.md)
-    -   [01-0 Ubuntu basic](httpsfd.md)
-    -   [01-0 Ubuntu basic](httpsfd.md)
