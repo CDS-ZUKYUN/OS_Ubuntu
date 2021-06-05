@@ -18,6 +18,6 @@
     -   
     -   [01-0 UBS Ipv6 disable(永久)](https://github.com/CDS-ZUKYUN/OS_Ubuntu/blob/main/Book/01-0%20UBS%20Ipv6%20disable(%E6%B0%B8%E4%B9%85).md)
     -   [01-1 UBS 設定網卡(IP、GW、DNS)](https://github.com/CDS-ZUKYUN/OS_Ubuntu/blob/main/Book/01-1%20UBS%20%E8%A8%AD%E5%AE%9A%E7%B6%B2%E5%8D%A1IP%E3%80%81GW%E3%80%81DNS%20IP.md)
-    -   [01-2 UBS 創建帳號密碼 & Enchant sudo權限](https://github.com/CDS-ZUKYUN/OS_Ubuntu/blob/main/Book/00-2%20sudo%E6%8C%87%E4%BB%A4%E5%BE%8C%E4%B8%8D%E6%89%93%E5%B8%B3%E8%99%9F%E5%AF%86%E7%A2%BC%E3%80%81%E5%B0%8E%E5%BC%95%E7%AC%A6%E8%99%9F%E3%80%81nano%E6%93%8D%E4%BD%9C.md)
+    -   [01-2 UBS 創建帳號密碼 & Enchant sudo權限](https://github.com/CDS-ZUKYUN/OS_Ubuntu/blob/main/Book/01-2%20UBS%20%E5%89%B5%E5%BB%BA%E5%B8%B3%E8%99%9F%E5%AF%86%E7%A2%BC%20%26%20Enchant%20sudo%E6%AC%8A%E9%99%90.md)
     -   [01-0 Ubuntu basic](httpsfd.md)
     -   [01-0 Ubuntu basic](httpsfd.md)
