@@ -17,7 +17,7 @@
 -   [Chapter1-指令運用 去蕪存菁](httpsfd.md)
     -   
     -   [01-0 UBS Ipv6 disable(永久)](https://github.com/CDS-ZUKYUN/OS_Ubuntu/blob/main/Book/01-0%20UBS%20Ipv6%20disable(%E6%B0%B8%E4%B9%85).md)
-    -   [01-1 UBS 設定網卡IP、GW、DNS IP](https://github.com/CDS-ZUKYUN/OS_Ubuntu/blob/main/Book/01-1%20UBS%20%E8%A8%AD%E5%AE%9A%E7%B6%B2%E5%8D%A1IP%E3%80%81GW%E3%80%81DNS%20IP.md)
+    -   [01-1 UBS 設定網卡(IP、GW、DNS)](https://github.com/CDS-ZUKYUN/OS_Ubuntu/blob/main/Book/01-1%20UBS%20%E8%A8%AD%E5%AE%9A%E7%B6%B2%E5%8D%A1IP%E3%80%81GW%E3%80%81DNS%20IP.md)
     -   [01-0 Ubuntu basic](httpsfd.md)
     -   [01-0 Ubuntu basic](httpsfd.md)
     -   [01-0 Ubuntu basic](httpsfd.md)
