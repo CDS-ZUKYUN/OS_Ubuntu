@@ -1,4 +1,4 @@
-# 01-2 UBS 創建帳號密碼 & Enchant sudo權限
+# 01-2 UBS 創建帳號密碼、Enchant sudo權限、帳號更改shell、刪除帳號
 date_tag: 0605
 
 ## 1. 創建帳號密碼
