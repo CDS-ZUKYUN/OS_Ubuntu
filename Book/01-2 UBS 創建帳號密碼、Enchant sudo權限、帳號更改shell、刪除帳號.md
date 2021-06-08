@@ -31,5 +31,29 @@ date_tag: 0605
 root ALL=(ALL:ALL) ALL
 rbean ALL=(ALL:ALL) ALL
 ```
+</br>
+
+## 3. 帳號更改shell
+
+```
+方法一
+~$ sudo usermod -s /bin/bash rbean
+                             [$USERNAME]
+                
+方法二
+~$ sudo nano /etc/passwd
+[修改內容]
+...
+rbean ... /bin/bash
+```
+</br>
+
+## 4. 刪除帳號
+
+```
+~$ sudo deluser --remove-home gbean
+```
+
+
 <br /><br />
 ###### tags: `OS_Ubuntu 01`
