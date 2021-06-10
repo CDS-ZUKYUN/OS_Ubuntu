@@ -73,5 +73,9 @@ cat /proc/cpuinfo | grep 'model name' | fmt -u | cut -d ':' -f3
 或 uname -av
 ```
 
+```
+sudo sh -c "echo 'something' >> /etc/privilegedfile"
+```
+
 <br /><br />
 ###### tags: `OS_Ubuntu 00`
