@@ -22,5 +22,5 @@
     -   [01-3 UBS Win10(VSCode、cmd、PowerShell) SSH免帳密登入Ubuntu](https://github.com/CDS-ZUKYUN/OS_Ubuntu/blob/main/Book/01-3%20UBS%20Win10(VSCode%E3%80%81cmd%E3%80%81PowerShell)%20SSH%E5%85%8D%E5%B8%B3%E5%AF%86%E7%99%BB%E5%85%A5Ubuntu.md)
     -   [01-0 Ubuntu basic](httpsfd.md)
     -   [01-0 Ubuntu basic](httpsfd.md)
-    -   [01-0 Ubuntu basic](httpsfd.md)
+
 
