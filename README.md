@@ -20,6 +20,7 @@
     -   [01-1 UBS 設定網卡(IP、GW、DNS)](https://github.com/CDS-ZUKYUN/OS_Ubuntu/blob/main/Book/01-1%20UBS%20%E8%A8%AD%E5%AE%9A%E7%B6%B2%E5%8D%A1IP%E3%80%81GW%E3%80%81DNS%20IP.md)
     -   [01-2 UBS 創建帳號密碼、Enchant sudo權限、帳號更改shell、刪除帳號](https://github.com/CDS-ZUKYUN/OS_Ubuntu/blob/main/Book/01-2%20UBS%20%E5%89%B5%E5%BB%BA%E5%B8%B3%E8%99%9F%E5%AF%86%E7%A2%BC%E3%80%81Enchant%20sudo%E6%AC%8A%E9%99%90%E3%80%81%E5%B8%B3%E8%99%9F%E6%9B%B4%E6%94%B9shell%E3%80%81%E5%88%AA%E9%99%A4%E5%B8%B3%E8%99%9F.md)
     -   [01-3 UBS Win10(VSCode、cmd、PowerShell) SSH免帳密登入Ubuntu](https://github.com/CDS-ZUKYUN/OS_Ubuntu/blob/main/Book/01-3%20UBS%20Win10(VSCode%E3%80%81cmd%E3%80%81PowerShell)%20SSH%E5%85%8D%E5%B8%B3%E5%AF%86%E7%99%BB%E5%85%A5Ubuntu.md)
+    -   [待新增]()
 
 
 
