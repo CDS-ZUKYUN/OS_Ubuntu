@@ -13,7 +13,6 @@
     -   [00-4 cp、zip、read](https://github.com/CDS-ZUKYUN/OS_Ubuntu/blob/main/Book/00-4%20cp%E3%80%81zip%E3%80%81read.md)
     -   [00-5 echo(特殊字元、系統內定變數)、資訊檢視(記憶體、CPU、硬體、版本)](https://github.com/CDS-ZUKYUN/OS_Ubuntu/blob/main/Book/00-5%20echo(%E7%89%B9%E6%AE%8A%E5%AD%97%E5%85%83%E3%80%81%E7%B3%BB%E7%B5%B1%E5%85%A7%E5%AE%9A%E8%AE%8A%E6%95%B8)%E3%80%81%E8%B3%87%E8%A8%8A%E6%AA%A2%E8%A6%96(%E8%A8%98%E6%86%B6%E9%AB%94%E3%80%81CPU%E3%80%81%E7%A1%AC%E9%AB%94%E3%80%81%E7%89%88%E6%9C%AC).md)
     -   [待新增](httpsfd.md)
-    -   
 
 -   [Chapter1-指令運用 去蕪存菁](httpsfd.md)
     -   
